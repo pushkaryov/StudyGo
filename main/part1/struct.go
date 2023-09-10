@@ -9,10 +9,7 @@ func main() {
 		Y int
 	}
 
-	p := Point{
-		X: 5,
-		Y: 3,
-	}
+	p := Point{X: 5, Y: 3}
 
 	p = Point{3, 5}
 
